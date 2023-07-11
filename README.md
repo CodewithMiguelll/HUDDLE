@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# HUDDLE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the HUDDLE project! This platform aims to bring together students from Nigerian universities, providing a space to share and access relevant and accurate information about their schools, admissions requirements, special events, and more.
 
-## Available Scripts
+Please note that this project is currently in the planning phase and development has not yet begun. The information provided in this README is a high-level overview of our vision and goals for HUDDLE.
 
-In the project directory, you can run:
+## Vision
 
-### `npm start`
+Our vision is to create a user-friendly and inclusive social networking app that caters specifically to Nigerian students. By leveraging technology, we aim to empower students to connect, collaborate, and share valuable information about their universities, academics, and social events.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features (Planned)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Information Sharing**: Easily share and access important information about universities, including admissions requirements, course details, academic calendars, and more.
 
-### `npm test`
+- **Discussion Forums**: Engage in meaningful discussions with fellow students on various topics related to university life, academics, career guidance, and social events.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Events and Parties**: Stay up to date with the latest social events, parties, and campus activities happening in Nigerian universities.
 
-### `npm run build`
+- **Connect with Peers**: Build connections with students from different universities, collaborate on projects, form study groups, and network for future career opportunities.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Please keep in mind that the specific features and functionality mentioned above are subject to change as we progress through the development process.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We welcome contributions from the community! If you're interested in contributing to the HUDDLE project, please stay tuned for updates on how to get involved. We will provide guidelines and instructions for contributing as the project advances.
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is licensed under the [MIT License](LICENSE).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions, suggestions, or would like to stay updated on the progress of this project, please reach out to us at [chikaimauwakwe@gmail.com](mailto:chikaimauwakwe@gmail.com).
